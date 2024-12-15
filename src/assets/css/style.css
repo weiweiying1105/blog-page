@@ -10,7 +10,7 @@
 
 /* 暗色主题变量 */
 :root[data-theme='dark'] {
-  --primary-color: #3dd68c;
+  --primary-color: #1677ff;
   --text-color: #e5e7eb;
   --bg-color: #1a1a1a;
   --card-bg: #2a2a2a;

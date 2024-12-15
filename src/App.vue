@@ -7,7 +7,9 @@
 import TheHeader from './components/TheHeader.vue'
 </script>
 
-<style>
+<style lang="scss">
+
+
 html, body {
   margin: 0;
   padding: 0;
